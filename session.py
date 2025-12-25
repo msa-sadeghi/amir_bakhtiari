@@ -40,11 +40,42 @@
 
 # import math
 
-name =  "amir"
+# name =  'amir'
 # print(name + " " + "bakhtiari")
 # print(f"{name} bakhtiari")
-delimiter = "-"
-print(delimiter.join("amir"))
+# delimiter = "-"
+# print(delimiter.join("amir"))
 
-print(name * 10)
-print(10 * name)
+# print(name * 10)
+# print(10 * name)
+
+
+# x1 = 12
+# x2 =  12.5
+# print(type(x1))
+# print(type(x2))
+
+# first_name = "nikan"
+# print(len(first_name))
+# print(len("nikan"))
+# print(first_name[0])
+# print(first_name[1])
+# print(first_name[2])
+# print(first_name[3])
+# print(first_name[4])
+# print("nikan"[4])
+
+# name = input("enter your name: ")
+# family = input("enter your family: ")
+# message = "hello " + name + " " + family
+# message = f"hello {name} {family}"
+# print(message)
+
+# number1 = int(input("enter the number: "))
+# number2 = float(input("enter the number: "))
+
+# print("sum is :", number1 + number2)
+# print(f"{number1} + {number2} = {number1 + number2}")
+
+
+x1 = float(input("enter the first number: "))
