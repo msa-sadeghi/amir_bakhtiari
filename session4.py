@@ -15,9 +15,9 @@
 #     sum += i
 # print(sum)
 
-name = input("enter the name: ")
+# name = input("enter the name: ")
 # for i in range(len(name)):
 #     print(name[i])
 
-for item in enumerate(name):
-    print(item[0], item[1])
+# for item in enumerate(name):
+#     print(item[0], item[1])
